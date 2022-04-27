@@ -1,0 +1,23 @@
+body {
+    background-color: #ededed;
+}
+
+.colDiv {
+    width: 20px;
+    height: 20px;
+    /* border: 1px solid #000; */
+}
+
+.rowDiv {
+    display: flex;
+    background-color: #fff;
+}
+
+.paint {
+    background-color: #333;
+}
+
+.ereaseCell {
+    color: #fff;
+    background-color: #212529;
+}
